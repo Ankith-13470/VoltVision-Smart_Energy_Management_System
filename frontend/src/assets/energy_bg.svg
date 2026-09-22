@@ -1,0 +1,51 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071A33" />
+      <stop offset="100%" stop-color="#0E2944" />
+    </linearGradient>
+    <linearGradient id="sunGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFDC6B" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#FFDC6B" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="windGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#66D8FF" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#66D8FF" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="batteryGlow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#59E0A2" />
+      <stop offset="100%" stop-color="#0E613E" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)" />
+  <circle cx="1320" cy="140" r="130" fill="url(#sunGlow)" />
+  <circle cx="1320" cy="140" r="65" fill="#FFE56F" />
+  <g opacity="0.85">
+    <path d="M1290 95V70" stroke="#FFEB99" stroke-width="12" stroke-linecap="round" />
+    <path d="M1260 115L1235 95" stroke="#FFEB99" stroke-width="12" stroke-linecap="round" />
+    <path d="M1360 115L1385 95" stroke="#FFEB99" stroke-width="12" stroke-linecap="round" />
+    <path d="M1320 35V10" stroke="#FFEB99" stroke-width="12" stroke-linecap="round" />
+  </g>
+  <path d="M210 740C210 740 290 640 360 620C430 600 540 620 590 680C640 740 720 760 820 700C920 640 980 520 1040 470C1100 420 1180 390 1260 410C1340 430 1420 520 1450 620L1500 780H210Z" fill="#091A2D" />
+  <path d="M450 720C450 720 510 610 560 560C610 510 700 500 770 540C840 580 850 660 820 700C790 740 690 750 630 740C570 730 530 720 450 720Z" fill="#11365A" />
+  <path d="M520 690H660C690 690 710 666 710 640V500C710 470 690 450 660 450H520C490 450 470 470 470 500V640C470 666 490 690 520 690Z" fill="#0E3A66" />
+  <path d="M540 500H640V640H540V500Z" fill="#59E0A2" />
+  <path d="M540 540H620" stroke="#0D2746" stroke-width="12" stroke-linecap="round" />
+  <path d="M540 590H620" stroke="#0D2746" stroke-width="12" stroke-linecap="round" />
+  <path d="M540 640H620" stroke="#0D2746" stroke-width="12" stroke-linecap="round" />
+  <circle cx="220" cy="620" r="18" fill="#59E0A2" opacity="0.8" />
+  <path d="M350 540L300 720" stroke="#59E0A2" stroke-width="30" stroke-linecap="round" />
+  <path d="M390 520L340 700" stroke="#59E0A2" stroke-width="30" stroke-linecap="round" />
+  <path d="M860 670C860 670 930 590 1000 590C1070 590 1120 690 1160 720C1200 750 1270 780 1320 750C1370 720 1390 640 1390 620C1390 600 1360 560 1320 540C1280 520 1220 520 1160 540C1100 560 1040 620 1000 660C960 700 900 720 860 670Z" fill="#0F335D" />
+  <path d="M1040 640H1120" stroke="#66D8FF" stroke-width="16" stroke-linecap="round" />
+  <path d="M1060 600H1100" stroke="#66D8FF" stroke-width="16" stroke-linecap="round" />
+  <path d="M1010 690H1090" stroke="#66D8FF" stroke-width="16" stroke-linecap="round" />
+  <path d="M1080 590L1110 520" stroke="#66D8FF" stroke-width="12" stroke-linecap="round" />
+  <path d="M1120 580L1180 510" stroke="#66D8FF" stroke-width="12" stroke-linecap="round" />
+  <path d="M460 250C460 250 500 190 560 180C620 170 680 190 720 240C760 290 780 370 760 430C740 490 690 540 640 560C590 580 530 590 490 560C450 530 430 470 430 420C430 370 450 310 460 250Z" fill="#091F44" />
+  <path d="M525 270C525 270 560 220 600 210C640 200 680 220 700 250C720 280 730 330 720 370C710 410 690 440 660 450C630 460 600 460 580 450C560 440 545 420 540 390C535 360 525 320 525 270Z" fill="#0F3160" />
+  <path d="M570 300L620 350" stroke="#66D8FF" stroke-width="18" stroke-linecap="round" opacity="0.8" />
+  <path d="M620 300L680 360" stroke="#66D8FF" stroke-width="14" stroke-linecap="round" opacity="0.7" />
+  <path d="M720 320L760 360" stroke="#66D8FF" stroke-width="14" stroke-linecap="round" opacity="0.65" />
+  <path d="M420 150C420 150 520 120 590 180C660 240 740 230 780 300" stroke="#66D8FF" stroke-width="16" stroke-linecap="round" opacity="0.7" />
+</svg>
