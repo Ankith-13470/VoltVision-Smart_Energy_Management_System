@@ -14,46 +14,41 @@ The project combines machine learning, data analytics, and modern web technologi
 - Visualize consumption trends through interactive dashboards
 
 ### Analytics Dashboard
--> Daily, weekly, and monthly energy analysis
--> Energy usage summaries and reports
--> Data visualization for better decision-making
+- Daily, weekly, and monthly energy analysis
+- Energy usage summaries and reports
+- Data visualization for better decision-making
 
 ### Anomaly Detection
--> Detect unusual spikes or drops in energy consumption
--> Alert users about potential energy wastage or system faults
+- Detect unusual spikes or drops in energy consumption
+- Alert users about potential energy wastage or system faults
 
 ### Energy Optimization Insights
--> Generate recommendations for reducing energy consumption
--> Improve operational efficiency through data-driven decisions
+- Generate recommendations for reducing energy consumption
+- Improve operational efficiency through data-driven decisions
 
 
 ## Tech Stack
 
 ### Frontend
--> React.js
--> HTML5
--> CSS3
--> JavaScript
+- React.js
+- HTML5
+- CSS3
+- JavaScript
 
 ### Backend
--> Python
--> FastAPI
+- Python
+- FastAPI
 
 ### Database
--> PostgreSQL
+- PostgreSQL
 
 ### Machine Learning & Data Analytics
--> Scikit-learn
--> Pandas
--> NumPy
+- Scikit-learn
+- Pandas
+- NumPy
 
 ### Visualization
--> Streamlit
-
-### Development Tools
--> Git
--> GitHub
--> VS Code
+- Streamlit
 
 
 ## System Architecture
@@ -161,20 +156,20 @@ streamlit run dashboard.py
 
 ## Future Enhancements
 
--> IoT-based smart meter integration
--> Real-time energy monitoring sensors
--> Carbon footprint estimation
--> Automated alert notification system
--> Cloud deployment using AWS
+- IoT-based smart meter integration
+- Real-time energy monitoring sensors
+- Carbon footprint estimation
+- Automated alert notification system
+- Cloud deployment using AWS
 
 
 ## Sustainability Impact
 
 VoltVision contributes to sustainable energy management by helping users:
 
--> Reduce unnecessary energy consumption
--> Detect inefficiencies early
--> Support environmental sustainability goals
+- Reduce unnecessary energy consumption
+- Detect inefficiencies early
+- Support environmental sustainability goals
 
 
 ## License
