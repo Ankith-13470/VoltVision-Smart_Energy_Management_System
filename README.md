@@ -10,8 +10,8 @@ The project combines machine learning, data analytics, and modern web technologi
 ## Key Features
 
 ### Energy Consumption Monitoring
--> Track energy usage across different time periods
--> Visualize consumption trends through interactive dashboards
+- Track energy usage across different time periods
+- Visualize consumption trends through interactive dashboards
 
 ### Analytics Dashboard
 -> Daily, weekly, and monthly energy analysis
