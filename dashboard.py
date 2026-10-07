@@ -4,7 +4,7 @@ st.title("Smart Energy Management System(SEMS)")
 
 usage = requests.get("http://127.0.0.1:8000/usage").json()
 df = pd.DataFrame(usage)
-st.line_chart(df["Electricity Consumption (kWh)"])
+st.line_chart(df["usage"])
 
 pred = requests.get("http://127.0.0.1:8000/predict").json()
 st.metric("Predicted Next Hour Usage", pred["predicted_usage"])
