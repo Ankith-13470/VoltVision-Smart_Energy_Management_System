@@ -65,7 +65,7 @@ Energy Data Sources
  ┌──────┴──────┐
  ▼             ▼
 Database    ML Models
-(PostgreSQL) (Anomaly Detection)
+(SQLite3) (Anomaly Detection)
  │             │
  └──────┬──────┘
         ▼
@@ -89,9 +89,9 @@ VoltVision-Smart_Energy_Management_System/
 │   ├── package.json
 │
 ├── backend/
-│   ├── routes/
-│   ├── services/
-│   ├── models/
+│   ├── main.py
+│   ├── seed_data.csv
+│   ├── check_db.py
 │
 ├── Energy_Data.csv
 ├── dashboard.py
