@@ -40,7 +40,7 @@ The project combines machine learning, data analytics, and modern web technologi
 - FastAPI
 
 ### Database
-- PostgreSQL
+- SQLite3
 
 ### Machine Learning & Data Analytics
 - Scikit-learn
